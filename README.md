@@ -1,5 +1,7 @@
 # Weather App in ReactJS
 
+## See the Project Demo live <a href="https://prakashs25.github.io/react-weather-app/" target="_blank">here</a>
+
 In the project directory, you can run:<br />
 
 #### `npm start`
